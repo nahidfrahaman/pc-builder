@@ -1,0 +1,10 @@
+@media (min-width: 500px) {
+  .menuIcon {
+    display: none;
+  }
+}
+@media (max-width: 500px) {
+  .headerIcon {
+    display: none;
+  }
+}
